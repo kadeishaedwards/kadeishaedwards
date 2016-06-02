@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<head>
+<style>
+header {
+    text-align: center;
+    background: #a5d3d4;
+    color: black;
+    font-family: Corbel;
+}
+div.aboutme {
+    text-align: center;
+    background: #c3d7d9;
+    color: black;
+    font-family: Corbel;
+}
+div.projects {
+text-align: center;
+background: #eff1f4;
+color: black;
+font-family: corbel;
+}
+div.experience {
+text-align: center;
+background: #bdcdc4;
+color: black;
+font-family: corbel;
+}
+div.contactme {
+text-align: center;
+background: #758576;
+color: black;
+font-family: corbel;
+}
+</style>
+</head>
+<body>
+
+<header>
+<img src= 'https://scontent-mia1-1.xx.fbcdn.net/v/t34.0-12/13342321_10209126646350956_1910674814_n.jpg?oh=816cb71469d1f3c41e24c101df202f61&oe=5751B186'style="width:304px;height:228px;">
+<h1 style="font-size:400%;">Kadeisha Edwards</h1>
+
+<p>The University of the West Indies | Mechanical Engineering.</p>
+<a href="https://www.pinterest.com/ngc4452/">
+  <img src="http://www.rivistadesignarchitettura.com/j/images/pinterest_logo.png" alt="My Pinterest" style="width:42px;height:42px;border:0;">
+</a>
+</header>
+
+<div class="aboutme">
+<nav> Kadeisha Edwards
+About Me 
+Projects
+Experience
+</nav>
+<h2 style="font-size:300%;"> About Me </h2>
+<p> Hi, my name is Kadeisha Edwards, a second Mechanical Engineering student studying at the University of the West Indies, St Augustine Campus. I have a passion for trying and learning new things ,which includes making this website from scratch using HTML and CSS; two skills I have recently learnt. I love astronomy and physics and spend a lot of my time reading theories and, on ocassion, making up my own. </p>
+</div>
+
+<div class="projects">
+<h3 style="font-size:300%;"> Projects </h3>
+<p>I started a study blog on tumblr when I decided I wanted to get more serious about my school work.</p>
+</div>
+
+<div class="experience">
+<h4 style="font-size:300%;"> Experience </h4>
+<p> Because of my love for astronomy I have volunteered at some community research websites: Zoo Universe and Stardust. Zoo Universe allows users to catalouge galaxies into number of arms, type of galaxy and other categories. At Stardust, members are required to find interstellar particles from microscopic pictures. </p>
+</div>
+
+<div class="contactme">
+
+<img src='http://logok.org/wp-content/uploads/2015/08/CVS-Health-logo.png'style="width:42px;height:42px;border:0;">
+<div/>
+</body>
+</html>
